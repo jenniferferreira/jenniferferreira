@@ -1,5 +1,5 @@
 ### boas vindas ao meu perfil -_- 
-- oii meu nome e jenniferfer
+- oii meu nome e jennifer
 
 
 - Estou estudando na alura
